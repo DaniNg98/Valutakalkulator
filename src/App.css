@@ -1,0 +1,7 @@
+#container {
+    position: fixed;
+    top: 30%;
+    left: 50%;
+    margin-top: -200px;
+    margin-left: -205px;
+}
